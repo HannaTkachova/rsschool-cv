@@ -1,1 +1,29 @@
+@font-face {
+    font-family: Raleway;
+     src: url("assets/fonts/Raleway.ttf");
+}
+p, h1, h2, li, a {
+    font-family: Raleway 
+    
+}
+p, li, a {
+    color: rgb(49, 151, 116);
+}
+h1, h2 {
+color: rgb(39, 99, 79);
 
+}
+body{
+    background-color: #D2FFEF
+}
+    
+.image{
+    border-radius: 50%; 
+}
+footer, header {
+    background-color: #39A67F	;
+}
+.main-header{
+    color: #0D3829;
+    text-align: center;
+}
